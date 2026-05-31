@@ -5,4 +5,4 @@ seaborn
 jupyter 
 plotly  
 scipy
-ipykernels
+ipykernel
